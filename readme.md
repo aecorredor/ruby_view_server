@@ -277,4 +277,3 @@ What did we just do? We started off turning erb (the ruby code) into html. We mo
 You are an incredible person. Way to go! Understanding how to manipulate views in the context of a server is a large part of what Rails developers do every day.
 
 Don't forget to push your changes back to your fork.
-
