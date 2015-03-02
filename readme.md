@@ -76,7 +76,7 @@ Open the file in your favorite text editor to modify the file, and re-run it usi
 Try modifying the data in the erb blocks using concatenation or other methods.
 
 If you get errors try re-running the generator and reading the error messages. You can add debugging `puts` statements in your view or the script to help you figure out what is going on
-
+g
 Commit the results to git
 
 ## 2) Generate HTML with Ruby
