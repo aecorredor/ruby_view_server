@@ -37,7 +37,7 @@ This will add your changes to the git repository, once you're happy with the cha
 To push your local changes to github you can run:
 
     $ git push origin master
-
+g
 Origin refers to the place where you cloned the code from (github) and master refers to the branch you're on.
 
 Once you're done with the homework and it has been committed to your laptop, push it to your fork on Github. Then open a pull request. Your assignment will be graded from this pull request.
